@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_MarqueeLabel/do_MarqueeLabel.zip
+/doExt_do_MarqueeLabel/do_build.xml
+/doExt_do_MarqueeLabel/libs/docore.jar
